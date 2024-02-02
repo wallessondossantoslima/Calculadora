@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "c+5kB27RNpqky7DMQSuxsA15eh1bWKRjSBKMh+fWzLNrSMXm489zPV6O47eICOq5NM9DAofBRCrK3owoNQrI9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FACAPE\\Documents\\2024\\CalculadoraApiRogers\\CalculadoraApiRogers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FACAPE\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.1\\microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
+    "C:\\Users\\FACAPE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\FACAPE\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\FACAPE\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\FACAPE\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\FACAPE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\FACAPE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
